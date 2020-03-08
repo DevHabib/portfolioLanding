@@ -19,12 +19,42 @@
     padding: 0 !important;
   }
 
+  #home {
+    height: 80vh;
+  }
+
+  .home-content h1 {
+    font-size: 18px;
+  }
+
+  .home-content h2 {
+    font-size: 30px;
+  }
+
+  p,
+  a {
+    font-size: 14px !important;
+  }
+
+  .hr-card {
+    display: block;
+    text-align: center;
+  }
+
+  .card-left {
+    width: 100%;
+  }
+
+  .card-right h3 {
+    font-size: 21px;
+  }
+
   .section-heading p {
-    font-size: 20px;
+    font-size: 17px;
   }
 
   .section-heading h1 {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .footer-social {

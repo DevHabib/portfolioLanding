@@ -1,6 +1,0 @@
-- Install pre-activated ready-to-use package. It will not require anything for activation.
-
-- You can install offline or online as the installer is patched out.
-
-- Home Screen fix is built into the installer.
-=================
