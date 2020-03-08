@@ -10,6 +10,10 @@
   .navbar-nav li a {
     padding: 0 !important;
   }
+
+  .form-content {
+    margin-top: 20px;
+  }
 }
 
 
@@ -41,20 +45,8 @@
     text-align: center;
   }
 
-  .card-left {
-    width: 100%;
-  }
-
-  .card-right h3 {
-    font-size: 21px;
-  }
-
-  .section-heading p {
-    font-size: 17px;
-  }
-
-  .section-heading h1 {
-    font-size: 25px;
+  .form-content {
+    margin-top: 20px;
   }
 
   .footer-social {
